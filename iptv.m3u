@@ -29,7 +29,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/stream_0.m3u8
 
-#EXTINF:-1 tvg-id="gameshownetwork.ca" tvg-logo="https://i.imgur.com/Ep3mrT2.jpeg",Game Show Network CA 
+#EXTINF:-1 tvg-id=";Game Show Network - East HD.ca" tvg-logo="https://i.imgur.com/Ep3mrT2.jpeg",Game Show Network 
 http://1tv41.icu:8080/8tFfDW/451664/57430
 
 #EXTINF:-1 tvg-id="369781" tvg-logo="https://i.imgur.com/5gMIjA2.png",Aniplus
