@@ -1,0 +1,37 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/merged_epg.xml,https://epg.pw/api/epg.xml?channel_id=7870,https://epg.pw/api/epg.xml?channel_id=463993,https://epg.pw/api/epg.xml?channel_id=464263,https://epg.pw/api/epg.xml?channel_id=369781,"
+
+#EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/U5L67WD.png",TV5 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
+
+#EXTINF:-1 tvg-id="7870" tvg-logo="https://i.imgur.com/JjtDnJk.png",Kapamilya Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
+
+#EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://i.imgur.com/Cu1tAY8.png", GMA 7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://161.49.17.2:6610/001/2/ch00000090990000001093/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+
+#EXTINF:-1 tvg-id="GTV.ph" tvg-logo="https://i.imgur.com/Tzwxqot.png",GTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://161.49.17.2:6610/001/2/ch00000090990000001143/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="463993" tvg-logo="https://i.imgur.com/MjHK3N0.png",Star Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
+
+#EXTINF:-1 tvg-id="464263" tvg-logo="https://i.imgur.com/D2dBe04.png",Star Movies Select HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/stream_0.m3u8
+
+#EXTINF:-1 tvg-id="369781" tvg-logo="https://i.imgur.com/5gMIjA2.png",Aniplus
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 tvg-id="animax" tvg-logo="https://i.imgur.com/MiUDLVa.png",Animax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://live.dinesh29.com.np/stream/jiotvplus/animax/stream_0.m3u8
