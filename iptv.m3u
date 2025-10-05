@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,https://epg.pw/api/epg.xml?channel_id=464263,https://epg.pw/api/epg.xml?channel_id=369781,
-https://epg.pw/api/epg.xml?channel_id=369848"
+https://epg.pw/api/epg.xml?channel_id=369848,https://www.open-epg.com/files/canada3.xml.gz"
 
 #EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/U5L67WD.png",TV5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -28,6 +28,9 @@ https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
 #EXTINF:-1 tvg-id="464263" tvg-logo="https://i.imgur.com/D2dBe04.png",Star Movies Select HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/stream_0.m3u8
+
+#EXTINF:-1 tvg-id="gameshownetwork.ca" tvg-logo="https://i.imgur.com/Ep3mrT2.jpeg",Game Show Network CA 
+http://1tv41.icu:8080/8tFfDW/451664/57430
 
 #EXTINF:-1 tvg-id="369781" tvg-logo="https://i.imgur.com/5gMIjA2.png",Aniplus
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
