@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/philippines1.xml.gz,https://www.open-epg.com/files/philippines2.xml.gz,https://epg.pw/api/epg.xml?channel_id=463993,https://epg.pw/api/epg.xml?channel_id=464263,https://epg.pw/api/epg.xml?channel_id=463905,
+#EXTM3U url-tvg="https://www.open-epg.com/files/philippines1.xml.gz,https://www.open-epg.com/files/philippines2.xml.gz,https://epg.pw/api/epg.xml?channel_id=463993,https://epg.pw/api/epg.xml?channel_id=463905,
 https://epg.pw/api/epg.xml?channel_id=369781,https://www.open-epg.com/files/canada3.xml.gz"
 
 #EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/U5L67WD.png",TV5 HD
@@ -21,13 +21,9 @@ http://161.49.17.2:6610/001/2/ch00000090990000001093/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001143/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="463993" tvg-logo="https://i.imgur.com/MjHK3N0.png",Star Movies HD
+#EXTINF:-1 tvg-id="463993" tvg-logo="https://i.imgur.com/MjHK3N0.png" group-title="",Star Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
-
-#EXTINF:-1 tvg-id="464263" tvg-logo="https://i.imgur.com/D2dBe04.png",Star Movies Select HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/stream_0.m3u8
+http://89.187.189.98/STARMOVIESHD/index.m3u8
 
 #EXTINF:-1 tvg-id="463905" tvg-logo="https://i.imgur.com/3BCg3pS.pngg" group-title="",Movies Now HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -41,7 +37,3 @@ https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-a
 
 #EXTINF:-1 tvg-id="Onenews Hd.ph" tvg-logo="https://i.imgur.com/bpRiu54.png",One News
 http://1tv41.icu:8080/8tFfDW/451664/101774
-
-#EXTINF:-1 tvg-id="463993" tvg-logo="https://i.imgur.com/MjHK3N0.png" group-title="",Star Movies HD II
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://89.187.189.98/STARMOVIESHD/index.m3u8
