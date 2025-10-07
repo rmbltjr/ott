@@ -1,28 +1,25 @@
-#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=11984,
-https://epg.pw/api/epg.xml?channel_id=7870,
-https://epg.pw/api/epg.xml?channel_id=70615,
-https://epg.pw/api/epg.xml?channel_id=70607,
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,
 https://epg.pw/api/epg.xml?channel_id=463993,
 https://epg.pw/api/epg.xml?channel_id=463905,
 https://www.open-epg.com/files/canada3.xml.gz,
 https://epg.pw/api/epg.xml?channel_id=369781"
 
-#EXTINF:-1 tvg-id="11984" tvg-logo="https://i.imgur.com/U5L67WD.png",TV5 HD
+#EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/U5L67WD.png",TV5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 
-#EXTINF:-1 tvg-id="7870" tvg-logo="https://i.imgur.com/JjtDnJk.png",Kapamilya Channel
+#EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.ph" tvg-logo="https://i.imgur.com/JjtDnJk.png",Kapamilya Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-id="70615" tvg-logo="https://i.imgur.com/Cu1tAY8.png", GMA 7
+#EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://i.imgur.com/Cu1tAY8.png", GMA 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001093/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="70607" tvg-logo="https://i.imgur.com/Tzwxqot.png",GTV
+#EXTINF:-1 tvg-id="GTV.ph" tvg-logo="https://i.imgur.com/Tzwxqot.png",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001143/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
