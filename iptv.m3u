@@ -1,8 +1,8 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz" refresh="3600"
-#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=463993" refresh="3600"
-#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=463905" refresh="3600"
-#EXTM3U url-tvg="https://www.open-epg.com/files/canada3.xml.gz" refresh="3600"
-#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=369781" refresh="3600"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,
+https://epg.pw/api/epg.xml?channel_id=463993,
+https://epg.pw/api/epg.xml?channel_id=463905,
+https://www.open-epg.com/files/canada3.xml.gz,
+https://epg.pw/api/epg.xml?channel_id=369781"
 
 #EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/U5L67WD.png",TV5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
