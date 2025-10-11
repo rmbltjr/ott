@@ -24,21 +24,8 @@ http://161.49.17.2:6610/001/2/ch00000090990000001093/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001143/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="463905" tvg-logo="https://i.imgur.com/3BCg3pS.pngg" group-title="",Movies Now HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://89.187.189.98/MOVIESNOWHD/index.m3u8
-
 #EXTINF:-1 tvg-id="Game Show Network - East HD.ca" tvg-logo="https://i.imgur.com/Ep3mrT2.jpeg",Game Show Network
 http://1tv41.icu:8080/8tFfDW/451664/57430
-
-#EXTINF:-1 tvg-id="369781" tvg-logo="https://i.imgur.com/5gMIjA2.png",Aniplus
-https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
-
-#EXTINF:-1 tvg-id="369781" tvg-logo="https://i.imgur.com/KOuZuBY.png",Aniplus HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-https://slive.mana2.my/AniPlus/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="",CNA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -79,3 +66,12 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441206&extens
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441190&extension=ts&play_token=4hSc0OdPLE
+
+#EXTINF:-1 tvg-id="369781" tvg-logo="https://i.imgur.com/5gMIjA2.png",Aniplus
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 tvg-id="369781" tvg-logo="https://i.imgur.com/KOuZuBY.png",Aniplus HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://slive.mana2.my/AniPlus/index.mpd
