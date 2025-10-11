@@ -44,7 +44,7 @@ https://cdn1-8p.teleuptv.net:443/feba6738-a2a5-4819-8eb4-b32012b99539/tracks-v4a
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441217&extension=ts&play_token=BRpcwJlxdl
 
-#EXTINF:-1 tvg-id="" tvg-logo="",Star Movies Select HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EBrUGJw.png",Star Movies Select HD
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:120
 #EXTVLCOPT:network-caching=10000000
