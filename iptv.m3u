@@ -50,7 +50,5 @@ https://slive.mana2.my/AniPlus/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 https://slive.mana2.my/CNA/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="",Sony Pix HD
-#EXTVLCOPT:http-referrer=https://www.tataplay.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-http://nayatv.ydns.eu:80/live/99BFB57C82171EE6A192B948981C70C9/3698.ts
+#EXTINF:-1 tvg-id="" tvg-logo="",National Geographic HD
+https://cdn1-8p.teleuptv.net:443/feba6738-a2a5-4819-8eb4-b32012b99539/tracks-v4a1/mono.m3u8
