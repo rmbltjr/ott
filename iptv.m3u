@@ -2,10 +2,7 @@
 https://www.open-epg.com/files/canada3.xml.gz,
 https://epg.pw/api/epg.xml?channel_id=369807,
 https://epg.pw/api/epg.xml?channel_id=465089,
-https://epg.pw/api/epg.xml?channel_id=463993,
-https://epg.pw/api/epg.xml?channel_id=464263,
-https://epg.pw/api/epg.xml?channel_id=464142,
-https://epg.pw/api/epg.xml?channel_id=463869,
+https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz,
 https://epg.pw/api/epg.xml?channel_id=369781"
 
 #EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/U5L67WD.png",TV5 HD
@@ -40,7 +37,7 @@ https://slive.mana2.my/CNA/index.mpd
 #EXTINF:-1 tvg-id="465089" tvg-logo="",National Geographic HD
 https://cdn1-8p.teleuptv.net:443/feba6738-a2a5-4819-8eb4-b32012b99539/tracks-v4a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="463993" tvg-logo="https://i.imgur.com/MjHK3N0.png",Star Movies HD
+#EXTINF:-1 tvg-id="STAR.MOVIES.HD.in" tvg-logo="https://i.imgur.com/MjHK3N0.png",Star Movies HD
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:120
 #EXTVLCOPT:network-caching=10000000
@@ -48,14 +45,14 @@ https://cdn1-8p.teleuptv.net:443/feba6738-a2a5-4819-8eb4-b32012b99539/tracks-v4a
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441217&extension=ts&play_token=BRpcwJlxdl
 
-#EXTINF:-1 tvg-id="464263" tvg-logo="https://i.imgur.com/EBrUGJw.png",Star Movies Select HD
+#EXTINF:-1 tvg-id="STAR.MOVIES.SELECT.HD.in" tvg-logo="https://i.imgur.com/EBrUGJw.png",Star Movies Select HD
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:120
 #EXTVLCOPT:network-caching=10000000
 #EXTVLCOPT:http-reconnect=true
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441215&extension=ts&play_token=I6IiF0CvFf
 
-#EXTINF:-1 tvg-id="464142" tvg-logo="",&Flix HD
+#EXTINF:-1 tvg-id="and.Flix.HD.in" tvg-logo="",&Flix HD
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:120
 #EXTVLCOPT:network-caching=10000000
@@ -63,7 +60,7 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441215&extens
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441206&extension=ts&play_token=4GX1Q4hC5s
 
-#EXTINF:-1 tvg-id="463869" tvg-logo="",&Prive HD
+#EXTINF:-1 tvg-id="and.PRIVE.HD.in" tvg-logo="",&Prive HD
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:120
 #EXTVLCOPT:network-caching=10000000
