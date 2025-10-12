@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,
 https://www.open-epg.com/files/canada3.xml.gz,
-https://epg.pw/api/epg.xml?channel_id=369807,
+https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz,
 https://epg.pw/api/epg.xml?channel_id=465089,
 https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz,
 https://epg.pw/api/epg.xml?channel_id=369781"
@@ -28,7 +28,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001143/manifest.mpd?JITPDRMType=Wi
 #EXTINF:-1 tvg-id="Game Show Network - East HD.ca" tvg-logo="https://i.imgur.com/Ep3mrT2.jpeg",Game Show Network
 http://1tv41.icu:8080/8tFfDW/451664/57430
 
-#EXTINF:-1 tvg-id="369807" tvg-logo="",CNA
+#EXTINF:-1 tvg-id="CNA.(HD).sg" tvg-logo="",CNA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
