@@ -73,3 +73,6 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441190&extens
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 https://slive.mana2.my/AniPlus/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Sv5pbJ9.png",SineManila
+https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/playlist.m3u8
