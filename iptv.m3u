@@ -33,9 +33,6 @@ http://1tv41.icu:8080/8tFfDW/451664/57430
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 https://slive.mana2.my/CNA/index.mpd
 
-#EXTINF:-1 tvg-id="465089" tvg-logo="",National Geographic HD
-https://cdn1-8p.teleuptv.net:443/feba6738-a2a5-4819-8eb4-b32012b99539/tracks-v4a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="STAR.MOVIES.HD.in" tvg-logo="https://i.imgur.com/MjHK3N0.png",Star Movies HD
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:120
