@@ -7,9 +7,7 @@ https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz,
 https://epg.pw/api/epg.xml?channel_id=369781"
 
 #EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/U5L67WD.png",TV5 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
+http://user.scalecdn.co:8080/live/22707073/00642582/546800.m3u8?thanos1975
 
 #EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.ph" tvg-logo="https://i.imgur.com/JjtDnJk.png",Kapamilya Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -70,18 +68,4 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441206&extens
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441190&extension=ts&play_token=4hSc0OdPLE
 
 #EXTINF:-1 tvg-id="369781" tvg-logo="https://i.imgur.com/9L5TMz3.png",Aniplus HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-https://slive.mana2.my/AniPlus/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Sv5pbJ9.png",SineManila
-https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="",HBO HD
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:120
-#EXTVLCOPT:network-caching=10000000
-#EXTVLCOPT:http-reconnect=true
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
-http://93.119.105.61:80/play/live.php?mac=00:1A:79:34:34:31&stream=325973&extension=ts&play_token=bNw06UOYvE
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
