@@ -24,8 +24,8 @@ http://161.49.17.2:6610/001/2/ch00000090990000001093/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001143/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Game Show Network - East HD.ca" tvg-logo="https://i.imgur.com/Ep3mrT2.jpeg",Game Show Network
-http://1tv41.icu:8080/8tFfDW/451664/57430
+#EXTINF:-1 tvg-id="" tvg-logo="",Jungo Pinoy TV
+https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="CNA.(HD).sg" tvg-logo="https://i.imgur.com/T2pED0d.png",CNA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -69,3 +69,10 @@ https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-a
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ysZB9mC.png",Ani One
 https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hzzav9E.png", One Sports HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
