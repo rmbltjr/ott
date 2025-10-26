@@ -3,7 +3,8 @@ https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,
 https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz,
 https://epg.pw/api/epg.xml?channel_id=465089,
 https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz,
-https://epg.pw/api/epg.xml?channel_id=369781"
+https://epg.pw/api/epg.xml?channel_id=369781,
+https://epg.pw/api/epg.xml?channel_id=3234"
 
 #EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/U5L67WD.png",TV5 HD
 http://user.scalecdn.co:8080/live/22707073/00642582/546800.m3u8?thanos1975
@@ -72,7 +73,7 @@ https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-
 #EXTINF:-1 tvg-id="ONE.SPORTS.ph" tvg-logo="https://i.imgur.com/hzzav9E.png", One Sports
 http://user.scalecdn.co:8080/live/22707073/00642582/546796.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sexiXn8.png",TLC
+#EXTINF:-1 tvg-id="3234" tvg-logo="https://i.imgur.com/sexiXn8.png",TLC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323239363937303432353735:39574d333277376f336d374244323159
 http://136.239.159.18:6610/001/2/ch00000090990000001181//manifest.mpd?\AuthInfo=d85e93&virtualDomain=001.live_hls.zte.com&JITPMediaType=DASH&JITPDRMType=Widevine
