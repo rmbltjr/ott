@@ -17,7 +17,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 #EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://i.imgur.com/Cu1tAY8.png", GMA 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001093/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+http://vod.nathcreqtives.com/1093/manifest.mpd
 
 #EXTINF:-1 tvg-id="GTV.ph" tvg-logo="https://i.imgur.com/Tzwxqot.png",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
