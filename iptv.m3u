@@ -48,6 +48,12 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441206&extens
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441190&extension=ts&play_token=4hSc0OdPLE
 
+#EXTINF:-1 tvg-id="jungo" tvg-logo="https://i.imgur.com/cNhsgfr.png", Jungo Pinoy TV
+https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_1080p.m3u8
+
+#EXTINF:-1 tvg-id="CINEMO!.ph" tvg-logo="https://i.imgur.com/Pf8CNau.png", Cinemo
+https://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
+
 #EXTINF:-1 tvg-id="369781" tvg-logo="https://i.imgur.com/9L5TMz3.png",Aniplus HD
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
@@ -60,14 +66,11 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvg-id="Bilyonaryoch.ph" tvg-logo="https://i.imgur.com/W5TkcJl.jpeg", Bilyonaryo News Channel
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Aljazeera.ph" tvg-logo="https://i.imgur.com/bXyxp1H.png", Aljazeera
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+
 #EXTINF:-1 tvg-id="ONE.SPORTS.ph" tvg-logo="https://i.imgur.com/hzzav9E.png", One Sports
 http://user.scalecdn.co:8080/live/22707073/00642582/546796.m3u8
-
-#EXTINF:-1 tvg-id="jungo" tvg-logo="https://i.imgur.com/cNhsgfr.png", Jungo Pinoy TV
-https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_1080p.m3u8
-
-#EXTINF:-1 tvg-id="CINEMO!.ph" tvg-logo="https://i.imgur.com/Pf8CNau.png", Cinemo
-https://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
 
 #EXTINF:-1 tvg-id="3234" tvg-logo="https://i.imgur.com/sexiXn8.png",TLC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
