@@ -17,11 +17,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 #EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://i.imgur.com/Cu1tAY8.png", GMA 7
 https://stream.honortvph.totalh.net/gma/index.m3u8
 
-#EXTINF:-1 tvg-id="GTV.ph" tvg-logo="https://i.imgur.com/Tzwxqot.png",GTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001143/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
-
 #EXTINF:-1 tvg-id="STAR.MOVIES.HD.in" tvg-logo="https://i.imgur.com/MjHK3N0.png",Star Movies HD
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:120
@@ -67,6 +62,12 @@ https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-
 
 #EXTINF:-1 tvg-id="ONE.SPORTS.ph" tvg-logo="https://i.imgur.com/hzzav9E.png", One Sports
 http://user.scalecdn.co:8080/live/22707073/00642582/546796.m3u8
+
+#EXTINF:-1 tvg-id="jungo" tvg-logo="", Jungo Pinoy TV
+https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_1080p.m3u8
+
+#EXTINF:-1 tvg-id="CINEMO!.ph" tvg-logo="", Cinemo
+https://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
 
 #EXTINF:-1 tvg-id="3234" tvg-logo="https://i.imgur.com/sexiXn8.png",TLC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
