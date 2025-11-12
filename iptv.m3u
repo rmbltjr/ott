@@ -82,7 +82,6 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-id="ONE.SPORTS.ph" tvg-logo="https://i.imgur.com/hzzav9E.png", One Sports
 http://user.scalecdn.co:8080/live/22707073/00642582/546796.m3u8
 
-#EXTINF:-1 tvg-id="3234" tvg-logo="https://i.imgur.com/sexiXn8.png",TLC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233323239363937303432353735:39574d333277376f336d374244323159
-http://136.239.159.18:6610/001/2/ch00000090990000001181//manifest.mpd?\AuthInfo=d85e93&virtualDomain=001.live_hls.zte.com&JITPMediaType=DASH&JITPDRMType=Widevine
+#EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://i.imgur.com/Cu1tAY8.png", GMA 7
+http://vod.nathcreqtives.com/stream/convergenceinc/gmanetwork/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
