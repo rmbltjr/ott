@@ -14,7 +14,12 @@ http://user.scalecdn.co:8080/live/22707073/00642582/546800.m3u8?thanos1975
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
+
 #EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://i.imgur.com/Cu1tAY8.png", GMA 7
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+https://mc-o0of718lw0.bunny.run/7/dopamine/manifest.mpd
+
 https://vod.nathcreqtives.com/stream/convergenceinc/gmanetwork/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
 
 #EXTINF:-1 tvg-id="STAR.MOVIES.HD.in" tvg-logo="https://i.imgur.com/MjHK3N0.png",Star Movies HD
@@ -60,11 +65,16 @@ https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-a
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ysZB9mC.png",Ani One
 https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNA.(HD).sg" tvg-logo="https://i.imgur.com/T2pED0d.png",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="ANC.ph" tvg-logo="hhttps://i.imgur.com/WpHGobg.png",ANC HD
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
+https://mc-o0of718lw0.bunny.run/43/dopamine/manifest.mpd
 
 #EXTINF:-1 tvg-id="Bilyonaryoch.ph" tvg-logo="https://i.imgur.com/W5TkcJl.jpeg", Bilyonaryo News Channel
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNA.(HD).sg" tvg-logo="https://i.imgur.com/T2pED0d.png",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 #EXTINF:-1 tvg-id="Aljazeera.ph" tvg-logo="https://i.imgur.com/bXyxp1H.png", Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
