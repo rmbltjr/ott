@@ -59,20 +59,11 @@ https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="CINEMO!.ph" tvg-logo="https://i.imgur.com/Pf8CNau.png", Cinemo
 https://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
 
-#EXTINF:-1 tvg-id="369781" tvg-logo="https://i.imgur.com/9L5TMz3.png", Aniplus HD
-https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ysZB9mC.png", Ani One
-https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
-
-#EXTINF:-1 tvg-id="6793eaa4bc03978b9bc63db1" tvg-logo="https://images.pluto.tv/channels/6793eaa4bc03978b9bc63db1/colorLogoPNG_1746815871603.png", ANIME x HIDIVE
-https://stitcher.pluto.tv/stitch/hls/channel/6793eaa4bc03978b9bc63db1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
-
-#EXTINF:-1 tvg-id="60f74ba51c82ac000776c669" tvg-logo="https://images.pluto.tv/channels/60f74ba51c82ac000776c669/colorLogoPNG_1732662947992.png", Lupin the 3rd
-https://stitcher.pluto.tv/stitch/hls/channel/60f74ba51c82ac000776c669/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
-
 #EXTINF:-1 tvg-id="Bilyonaryoch.ph" tvg-logo="https://i.imgur.com/W5TkcJl.jpeg", Bilyonaryo News Channel
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://i.imgur.com/npj41pk.png", DZMM Teleradyo
+https://solitary-snowflake-7ee8.yeyxan.workers.dev/@DZMMTeleRadyo_MSPC/stream.m3u8
 
 #EXTINF:-1 tvg-id="CNA.(HD).sg" tvg-logo="https://i.imgur.com/T2pED0d.png", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -102,3 +93,15 @@ http://live.fuxxion.club:8080/live/HDPinguino123dkdkkDDFFDFa/al3q83JYkd/10711.m3
 
 #EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png", Game Show Central
 https://stitcher.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
+
+#EXTINF:-1 tvg-id="369781" tvg-logo="https://i.imgur.com/9L5TMz3.png", Aniplus HD
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ysZB9mC.png", Ani One
+https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6793eaa4bc03978b9bc63db1" tvg-logo="https://images.pluto.tv/channels/6793eaa4bc03978b9bc63db1/colorLogoPNG_1746815871603.png", ANIME x HIDIVE
+https://stitcher.pluto.tv/stitch/hls/channel/6793eaa4bc03978b9bc63db1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
+
+#EXTINF:-1 tvg-id="60f74ba51c82ac000776c669" tvg-logo="https://images.pluto.tv/channels/60f74ba51c82ac000776c669/colorLogoPNG_1732662947992.png", Lupin the 3rd
+https://stitcher.pluto.tv/stitch/hls/channel/60f74ba51c82ac000776c669/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
