@@ -85,8 +85,8 @@ http://user.scalecdn.co:8080/live/22707073/00642582/546796.m3u8
 #EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://i.imgur.com/Cu1tAY8.png", GMA 7 I
 http://vod.nathcreqtives.com/stream/convergenceinc/gmanetwork/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
 
-#EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://i.imgur.com/Cu1tAY8.png", GMA 7 III
-https://utube.cocker-tk.workers.dev/D8yBgd_onRg/master.m3u8
+#EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://i.imgur.com/Cu1tAY8.png", GMA 7 YT
+https://utube.cocker-tk.workers.dev/6whvFTEe9z4/master.m3u8
 
 #EXTINF:-1 tvg-id="GMALife.ph" tvg-logo="https://i.imgur.com/Cu1tAY8.png", GMA Life TV
 http://vod.nathcreqtives.com/stream/convergenceinc/gmalifetv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
