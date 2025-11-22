@@ -1,15 +1,16 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,
 https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,
 https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz,
 https://epg.pw/api/epg.xml?channel_id=465089,
 https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz,
 https://epg.pw/api/epg.xml?channel_id=369781,
-https://epg.pw/api/epg.xml?channel_id=3234"
+https://epg.pw/api/epg.xml?channel_id=3234,
+https://tvpass.org/epg.xml"
 
-#EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/U5L67WD.png",TV5 HD
+#EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/U5L67WD.png", TV5 HD
 http://user.scalecdn.co:8080/live/22707073/00642582/546800.m3u8?thanos1975
 
-#EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.ph" tvg-logo="https://i.imgur.com/JjtDnJk.png",Kapamilya Channel
+#EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.ph" tvg-logo="https://i.imgur.com/JjtDnJk.png", Kapamilya Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
@@ -20,9 +21,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 #KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
 https://mc-o0of718lw0.bunny.run/7/dopamine/manifest.mpd
 
-https://vod.nathcreqtives.com/stream/convergenceinc/gmanetwork/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
-
-#EXTINF:-1 tvg-id="STAR.MOVIES.HD.in" tvg-logo="https://i.imgur.com/MjHK3N0.png",Star Movies HD
+#EXTINF:-1 tvg-id="STAR.MOVIES.HD.in" tvg-logo="https://i.imgur.com/MjHK3N0.png", Star Movies HD
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:120
 #EXTVLCOPT:network-caching=10000000
@@ -30,14 +29,14 @@ https://vod.nathcreqtives.com/stream/convergenceinc/gmanetwork/master.m3u8?u=phc
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441217&extension=ts&play_token=BRpcwJlxdl
 
-#EXTINF:-1 tvg-id="STAR.MOVIES.SELECT.HD.in" tvg-logo="https://i.imgur.com/EBrUGJw.png",Star Movies Select HD
+#EXTINF:-1 tvg-id="STAR.MOVIES.SELECT.HD.in" tvg-logo="https://i.imgur.com/EBrUGJw.png", Star Movies Select HD
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:120
 #EXTVLCOPT:network-caching=10000000
 #EXTVLCOPT:http-reconnect=true
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441215&extension=ts&play_token=I6IiF0CvFf
 
-#EXTINF:-1 tvg-id="And.Flix.HD.in" tvg-logo="https://i.imgur.com/WW5OQEc.png",&Flix HD
+#EXTINF:-1 tvg-id="And.Flix.HD.in" tvg-logo="https://i.imgur.com/WW5OQEc.png", &Flix HD
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:120
 #EXTVLCOPT:network-caching=10000000
@@ -45,7 +44,7 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441215&extens
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441206&extension=ts&play_token=4GX1Q4hC5s
 
-#EXTINF:-1 tvg-id="And.PRIVE.HD.in" tvg-logo="https://i.imgur.com/Gy28WNn.png",&Prive HD
+#EXTINF:-1 tvg-id="And.PRIVE.HD.in" tvg-logo="https://i.imgur.com/Gy28WNn.png", &Prive HD
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:120
 #EXTVLCOPT:network-caching=10000000
@@ -53,27 +52,31 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441206&extens
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
 http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441190&extension=ts&play_token=4hSc0OdPLE
 
+#EXTINF:-1 tvg-id="645e7828e1979c00087b75b4" tvg-chno="205" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png", MovieSphere
+https://stitcher.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
+
 #EXTINF:-1 tvg-id="jungo" tvg-logo="https://i.imgur.com/cNhsgfr.png", Jungo Pinoy TV
 https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="CINEMO!.ph" tvg-logo="https://i.imgur.com/Pf8CNau.png", Cinemo
 https://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
 
-#EXTINF:-1 tvg-id="369781" tvg-logo="https://i.imgur.com/9L5TMz3.png",Aniplus HD
+#EXTINF:-1 tvg-id="369781" tvg-logo="https://i.imgur.com/9L5TMz3.png", Aniplus HD
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ysZB9mC.png",Ani One
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ysZB9mC.png", Ani One
 https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ANC.ph" tvg-logo="https://i.imgur.com/WpHGobg.png",ANC HD
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-o0of718lw0.bunny.run/license
-https://mc-o0of718lw0.bunny.run/43/dopamine/manifest.mpd
+#EXTINF:-1 tvg-id="6793eaa4bc03978b9bc63db1" tvg-logo="https://images.pluto.tv/channels/6793eaa4bc03978b9bc63db1/colorLogoPNG_1746815871603.png", ANIME x HIDIVE
+https://stitcher.pluto.tv/stitch/hls/channel/6793eaa4bc03978b9bc63db1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
+
+#EXTINF:-1 tvg-id="60f74ba51c82ac000776c669" tvg-logo="https://images.pluto.tv/channels/60f74ba51c82ac000776c669/colorLogoPNG_1732662947992.png", Lupin the 3rd
+https://stitcher.pluto.tv/stitch/hls/channel/60f74ba51c82ac000776c669/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
 
 #EXTINF:-1 tvg-id="Bilyonaryoch.ph" tvg-logo="https://i.imgur.com/W5TkcJl.jpeg", Bilyonaryo News Channel
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNA.(HD).sg" tvg-logo="https://i.imgur.com/T2pED0d.png",CNA
+#EXTINF:-1 tvg-id="CNA.(HD).sg" tvg-logo="https://i.imgur.com/T2pED0d.png", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 #EXTINF:-1 tvg-id="Aljazeera.ph" tvg-logo="https://i.imgur.com/bXyxp1H.png", Aljazeera
@@ -82,11 +85,22 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-id="ONE.SPORTS.ph" tvg-logo="https://i.imgur.com/hzzav9E.png", One Sports
 http://user.scalecdn.co:8080/live/22707073/00642582/546796.m3u8
 
-#EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://i.imgur.com/Cu1tAY8.png", GMA 7 I
-http://vod.nathcreqtives.com/stream/convergenceinc/gmanetwork/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:-1 tvg-id="discovery-asia" tvg-logo="https://i.imgur.com/f0g991U.png", Discovery Asia
+https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
-#EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://i.imgur.com/Cu1tAY8.png", GMA 7 YT
-https://utube.cocker-tk.workers.dev/6whvFTEe9z4/master.m3u8
+#EXTINF:-1 tvg-id="arirang-tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0cqd-JrliSDG0kvFFKk8IDV7UBJDgP9KDjg&s", Arirang TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.garden/
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GMALife.ph" tvg-logo="https://i.imgur.com/Cu1tAY8.png", GMA Life TV
-http://vod.nathcreqtives.com/stream/convergenceinc/gmalifetv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+#EXTINF:-1 tvg-id="640a64bd73e013000893d4e0" tvg-logo="https://images.pluto.tv/channels/640a64bd73e013000893d4e0/colorLogoPNG.png", PBS Nature
+https://stitcher.pluto.tv/stitch/hls/channel/640a64bd73e013000893d4e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
+
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-logo="https://i.imgur.com/9gq2SE9.png", National Geographic Wild
+http://supersonictv.live:8080/611366/682256/22125
+
+#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png", HGTV
+http://live.fuxxion.club:8080/live/HDPinguino123dkdkkDDFFDFa/al3q83JYkd/10711.m3u8
+
+#EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png", Game Show Central
+https://stitcher.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
