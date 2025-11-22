@@ -77,7 +77,7 @@ http://user.scalecdn.co:8080/live/22707073/00642582/546796.m3u8
 #EXTINF:-1 tvg-id="discovery-asia" tvg-logo="https://i.imgur.com/f0g991U.png", Discovery Asia
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
-#EXTINF:-1 tvg-id="arirang-tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0cqd-JrliSDG0kvFFKk8IDV7UBJDgP9KDjg&s", Arirang TV
+#EXTINF:-1 tvg-id="arirang-tv" tvg-logo="https://i.imgur.com/60YUxes.png", Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.garden/
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
