@@ -21,7 +21,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 https://converse.nathcreqtives.com/1093/manifest.mpd
 
-#EXTINF:-1 tvg-id="1093 tvg-logo="https://i.imgur.com/Cu1tAY8.png", GMA 7 YT
+#EXTINF:-1 tvg-id="1093" tvg-logo="https://i.imgur.com/Cu1tAY8.png", GMA 7 YT
 https://solitary-snowflake-7ee8.yeyxan.workers.dev/@gmanetwork/stream.m3u8
 
 #EXTINF:-1 tvg-id="STAR.MOVIES.HD.in" tvg-logo="https://i.imgur.com/MjHK3N0.png", Star Movies HD
@@ -121,3 +121,12 @@ https://stitcher.pluto.tv/stitch/hls/channel/6793eaa4bc03978b9bc63db1/master.m3u
 
 #EXTINF:-1 tvg-id="60f74ba51c82ac000776c669" tvg-logo="https://images.pluto.tv/channels/60f74ba51c82ac000776c669/colorLogoPNG_1732662947992.png", Lupin the 3rd
 https://stitcher.pluto.tv/stitch/hls/channel/60f74ba51c82ac000776c669/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gDH0sRe.png", THE K-POP
+https://solitary-snowflake-7ee8.yeyxan.workers.dev/@thekpop/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gDH0sRe.png", Vibing with K-POP 
+https://solitary-snowflake-7ee8.yeyxan.workers.dev/@kbsworldtv/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gDH0sRe.png", All-day K-POP Live
+https://solitary-snowflake-7ee8.yeyxan.workers.dev/@kbswlatino/stream.m3u8
