@@ -1,15 +1,15 @@
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n5rdR3v.png",PBB Main
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MJJTEnx.png",PBB Main
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n5rdR3v.png",PBB Dining Area
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MJJTEnx.png",PBB Dining Area
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b37bb823fe48452eba8cee62516f5da1:8b48cec6bce94917e4c39c381d607102
 https://abslive.akamaized.net/dash/live/2028025/pbb1/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n5rdR3v.png",PBB Pool Area
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MJJTEnx.png",PBB Pool Area
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9539027a7c42446a8648555af3bb3095:1cb94c88f68bef1e728cfa4677e1eeca
