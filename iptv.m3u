@@ -19,10 +19,12 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 https://solitary-snowflake-7ee8.yeyxan.workers.dev/@iWant/stream.m3u8
 
 #EXTINF:-1 tvg-id="1093" tvg-logo="https://i.imgur.com/Cu1tAY8.png", GMA 7
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1093/manifest.mpd
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:120
+#EXTVLCOPT:network-caching=10000000
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
+http://cf.10159875.cloud:80/play/live.php?mac=00:1A:79:12:5A:DC&stream=1548700&extension=ts&play_token=L9FV2p3QSV
 
 #EXTINF:-1 tvg-id="1093" tvg-logo="https://i.imgur.com/Cu1tAY8.png", GMA 7 YT
 https://solitary-snowflake-7ee8.yeyxan.workers.dev/@gmanetwork/stream.m3u8
