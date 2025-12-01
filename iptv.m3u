@@ -109,6 +109,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/640a64bd73e013000893d4e0/master.m3u
 #EXTINF:-1 tvg-id="national-geographic-wild" tvg-logo="https://i.imgur.com/9gq2SE9.png", National Geographic Wild
 http://supersonictv.live:8080/611366/682256/22125
 
+#EXTINF:-1 tvg-id="national-geographic-channel" tvg-logo="https://i.imgur.com/2TeKCBK.png", National Geographic Channel
+https://cdn1-8p.teleuptv.net:443/feba6738-a2a5-4819-8eb4-b32012b99539/tracks-v4a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png", HGTV
 http://live.fuxxion.club:8080/live/HDPinguino123dkdkkDDFFDFa/al3q83JYkd/10711.m3u8
 
