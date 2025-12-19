@@ -21,6 +21,11 @@ https://solitary-snowflake-7ee8.yeyxan.workers.dev/@abscbnentertainment/stream.m
 #EXTINF:-1 tvg-id="1093" tvg-logo="https://i.imgur.com/Cu1tAY8.png", GMA 7
 https://bisdaktv.fun/stream/nayswan.php?name=gma7
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkx6OGzy3xxxZ-bPetfdSh18C_hyo1o1g6wMAkrw7uFw&s=10", GMA Pinoy TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
+https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
+
 #EXTINF:-1 tvg-id="1093" tvg-logo="https://i.imgur.com/Cu1tAY8.png", GMA 7 YT
 https://solitary-snowflake-7ee8.yeyxan.workers.dev/@gmanetwork/stream.m3u8
 
@@ -73,10 +78,9 @@ https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/ind
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1249" tvg-logo="https://i.imgur.com/npj41pk.png", DZMM Teleradyo
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1249/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
+https://d14c00opfjb50c.cloudfront.net/out/v1/0fa4eb67579d41cca4ed146c93aa855f/index.mpd
 
 #EXTINF:-1 tvg-id="1249" tvg-logo="https://i.imgur.com/npj41pk.png", DZMM Teleradyo YT
 https://solitary-snowflake-7ee8.yeyxan.workers.dev/@DZMMTeleRadyo_MSPC/stream.m3u8
