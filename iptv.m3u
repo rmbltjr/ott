@@ -117,6 +117,11 @@ http://live.fuxxion.club:8080/live/HDPinguino123dkdkkDDFFDFa/al3q83JYkd/10711.m3
 #EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png", Game Show Central
 https://stitcher.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/G.../WickedTuna_Logo_White_16x9._SL170_FMpng_.png", Wicked Tuna
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9018dd0a359f5155592424c73174363
+https://otte.live.fly.ww.aiv-cdn.ne.../25195582ea114394a6094b420fe18ac1/cenc-sd.mpd
+
 #EXTINF:-1 tvg-id="369781" tvg-logo="https://i.imgur.com/9L5TMz3.png", Aniplus HD
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
