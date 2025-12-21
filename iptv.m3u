@@ -135,5 +135,11 @@ https://solitary-snowflake-7ee8.yeyxan.workers.dev/@thekpop/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gDH0sRe.png", Vibing with K-POP 
 https://solitary-snowflake-7ee8.yeyxan.workers.dev/@kbsworldtv/stream.m3u8
 
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gDH0sRe.png", All-day K-POP Live
 https://solitary-snowflake-7ee8.yeyxan.workers.dev/@kbswlatino/stream.m3u8
+
+#EXTINF:-1 tvg-id="alltvph1" tvg-logo="https://i.imgur.com/0xo8Ivs.png", ALL TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6610/001/2/ch00000090990000001179/manifest.mpd?virtualDomain=001.live_hls.zte.com
