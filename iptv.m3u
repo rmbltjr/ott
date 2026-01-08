@@ -15,24 +15,16 @@ http://user.scalecdn.co:8080/live/22707073/00642582/546800.m3u8?thanos1975
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-id="1286" tvg-logo="https://i.imgur.com/JjtDnJk.png", Kapamilya Channel YT
-https://solitary-snowflake-7ee8.yeyxan.workers.dev/@abscbnentertainment/stream.m3u8
+#EXTINF:-1 tvg-id="1286" tvg-logo="https://i.imgur.com/vA8Gqt5.png", ALLTV2
+https://content.ganbaruby23.xyz/memfs/d6927af0-df7c-4847-9193-7cb80882d139.m3u8
 
 #EXTINF:-1 tvg-id="1093" tvg-logo="https://i.imgur.com/Cu1tAY8.png", GMA 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoLvT86fM74ocVChyFS93HUsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1438418816418&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=BLJMICF8T5XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448620260101155237367179&ispcode=55
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkx6OGzy3xxxZ-bPetfdSh18C_hyo1o1g6wMAkrw7uFw&s=10", GMA Pinoy TV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
-https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
-
 #EXTINF:-1 tvg-id="1093" tvg-logo="https://i.imgur.com/Cu1tAY8.png", GMA 7 II
 https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vA8Gqt5.png", ALLTV2
-https://content.ganbaruby23.xyz/memfs/d6927af0-df7c-4847-9193-7cb80882d139.m3u8
 
 #EXTINF:-1 tvg-id="STAR.MOVIES.HD.in" tvg-logo="https://i.imgur.com/MjHK3N0.png", Star Movies HD
 #EXT-X-VERSION:3
@@ -68,9 +60,6 @@ http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441190&extens
 #EXTINF:-1 tvg-id="645e7828e1979c00087b75b4" tvg-chno="205" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png", MovieSphere
 https://stitcher.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
 
-#EXTINF:-1 tvg-id="jungo" tvg-logo="https://i.imgur.com/cNhsgfr.png", Jungo Pinoy TV
-https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_1080p.m3u8
-
 #EXTINF:-1 tvg-id="CINEMO!.ph" tvg-logo="https://i.imgur.com/Pf8CNau.png", Cinemo
 https://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
 
@@ -87,14 +76,8 @@ https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-
 #KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
 https://d14c00opfjb50c.cloudfront.net/out/v1/0fa4eb67579d41cca4ed146c93aa855f/index.mpd
 
-#EXTINF:-1 tvg-id="1249" tvg-logo="https://i.imgur.com/npj41pk.png", DZMM Teleradyo YT
-https://solitary-snowflake-7ee8.yeyxan.workers.dev/@DZMMTeleRadyo_MSPC/stream.m3u8
-
 #EXTINF:-1 tvg-id="CNA.(HD).sg" tvg-logo="https://i.imgur.com/T2pED0d.png", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-
-#EXTINF:-1 tvg-id="Aljazeera.ph" tvg-logo="https://i.imgur.com/bXyxp1H.png", Aljazeera
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 #EXTINF:-1 tvg-id="ONE.SPORTS.ph" tvg-logo="https://i.imgur.com/hzzav9E.png", One Sports
 http://user.scalecdn.co:8080/live/22707073/00642582/546796.m3u8
@@ -136,15 +119,3 @@ https://stitcher.pluto.tv/stitch/hls/channel/60f74ba51c82ac000776c669/master.m3u
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gDH0sRe.png", THE K-POP
 https://solitary-snowflake-7ee8.yeyxan.workers.dev/@thekpop/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gDH0sRe.png", Vibing with K-POP 
-https://solitary-snowflake-7ee8.yeyxan.workers.dev/@kbsworldtv/stream.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gDH0sRe.png", All-day K-POP Live
-https://solitary-snowflake-7ee8.yeyxan.workers.dev/@kbswlatino/stream.m3u8
-
-#EXTINF:-1 tvg-id="kixph2" tvg-logo="https://i.imgur.com/fx1Y2Eh.png",KIX
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
