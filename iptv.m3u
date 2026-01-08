@@ -31,6 +31,9 @@ https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
 #EXTINF:-1 tvg-id="1093" tvg-logo="https://i.imgur.com/Cu1tAY8.png", GMA 7 II
 https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vA8Gqt5.png", ALLTV2
+https://content.ganbaruby23.xyz/memfs/d6927af0-df7c-4847-9193-7cb80882d139.m3u8
+
 #EXTINF:-1 tvg-id="STAR.MOVIES.HD.in" tvg-logo="https://i.imgur.com/MjHK3N0.png", Star Movies HD
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:120
