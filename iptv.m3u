@@ -19,7 +19,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 https://solitary-snowflake-7ee8.yeyxan.workers.dev/@abscbnentertainment/stream.m3u8
 
 #EXTINF:-1 tvg-id="1093" tvg-logo="https://i.imgur.com/Cu1tAY8.png", GMA 7
-https://bisdaktv.fun/stream/nayswan.php?name=gma7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottmdrm.comclark.com/widevine/
+http://136.158.97.2:6610/001/2/ch00...ionId=RR20448620260101155237367179&ispcode=55
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkx6OGzy3xxxZ-bPetfdSh18C_hyo1o1g6wMAkrw7uFw&s=10", GMA Pinoy TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
