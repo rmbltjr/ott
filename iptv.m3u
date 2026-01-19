@@ -7,7 +7,7 @@ https://epg.pw/api/epg.xml?channel_id=369781,
 https://epg.pw/api/epg.xml?channel_id=3234,
 https://tvpass.org/epg.xml"
 
-#EXTINF:-1 tvg-id="1088" tvg-logo="https://i.imgur.com/U5L67WD.png", TV5
+#EXTINF:-1 tvg-id="1088" tvg-logo="https://i.imgur.com/MJxixS0.png", TV5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
