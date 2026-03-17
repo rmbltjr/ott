@@ -1,0 +1,149 @@
+#EXTM3U
+#EXTINF:-1, RAKUTEN | RAKUTEN VIKI
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
+#EXTINF:-1, SPORTS | FITE 24/7
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-DistroTV/263.m3u8
+#EXTINF:-1, SPORTS | TENNIS CHANNEL
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1, SPORTS | REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1, SPORTS | TENNIS CHANNEL INTERNATIONAL
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1, SPORTS | TRACE SPORTS STARS
+http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1, SPORTS | UNITED FIGHT ALLIANCE
+https://dai.google.com/linear/hls/event/_Bdiue-cTbidArncLX2eOA/master.m3u8
+#EXTINF:-1, SPORTS | WIRED2FISH TV
+https://dai.google.com/linear/hls/event/YvQxyCZaT9yhN-LCy5twQA/master.m3u8
+#EXTINF:-1, SPORTS | WORLD POKER TOUR
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF:-1, SPORTS | WORLD BILLIARDS TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=297
+#EXTINF:-1, SPORTS | HARD KNOCKS FIGHTING
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
+#EXTINF:-1, SPORTS | ABC
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15956.ts?thanos1975
+#EXTINF:-1, SPORTS | NBA TV
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/22501.ts?thanos1975
+#EXTINF:-1, SPORTS | ESPN
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15951.ts?thanos1975
+#EXTINF:-1, SPORTS | ESPN 2
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15950.ts?thanos1975
+#EXTINF:-1, SPORTS | ESPN NEWS
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15952.ts?thanos1975
+#EXTINF:-1, SPORTS | ESPN U
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15949.ts?thanos1975
+#EXTINF:-1, SPORTS | TNT HD
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15955.ts?thanos1975
+#EXTINF:-1, SPORTS | TSN 1
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15929.ts?thanos1975
+#EXTINF:-1, SPORTS | TSN 2
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15928.ts?thanos1975
+#EXTINF:-1, SPORTS | TSN 3
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15927.ts?thanos1975
+#EXTINF:-1, SPORTS | TSN 5
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15925.ts?thanos1975
+#EXTINF:-1, SPORTS | TRU TV
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
+#EXTINF:-1, SPORTS | SPORTSNET ONE HD
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
+#EXTINF:-1, SKY SPORT F1
+https://live.jalatech.ps/skysportf1/mpegts?token=fc972bf3678695d5eb548aa7b66ba268
+#EXTINF:-1, SKY SPORT FOOTBALL
+https://live.jalatech.ps/vip_skysportfootball/mpegts?token=b4ffa92e2eb4f288abd20587067fa9fe
+#EXTINF:-1, SKY SPORT PREMIER LEAGUE
+https://live.jalatech.ps/vip_skysportpremierleage/mpegts?token=4de4288ff135fdfb74e74f5c96a6e623
+#EXTINF:-1, SKY SPORT MAIN EVENT
+https://live.jalatech.ps/sky_sportmainevent/mpegts?token=d711326c7b11422be7931fdccdc90dde
+#EXTINF:-1, SKY SPORT ARENA / SKY SPORT +
+https://live.jalatech.ps/skysportarena/mpegts?token=d426fff189daebf8bb737f89a036dd24
+#EXTINF:-1, SKY SPORT GOLF
+https://live.jalatech.ps/skysportgolf/mpegts?token=f58fd12551d094543320e270021f49a7
+#EXTINF:-1, SKY SPORT MIX
+https://live.jalatech.ps/skysportmix/mpegts?token=322d03651ac98e3d9aea4db56860c3ff
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:120
+#EXTVLCOPT:network-caching=10000000
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
+#EXTINF:-1, SKY SPORT MOTOGP
+https://live.jalatech.ps/sky_sport_motogp_fhd/mpegts?token=436975d896c2eb66d38302ca4a291fcf
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:120
+#EXTVLCOPT:network-caching=10000000
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
+#EXTINF:-1, SPORTS | SPORTSNET 360
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:34:34:31&stream=500454&extension=ts&play_token=OLtV8HINI7
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:120
+#EXTVLCOPT:network-caching=10000000
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
+#EXTINF:-1, SPORTS | THE FIGHT NETWORK
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:34:34:31&stream=414074&extension=ts&play_token=EYJj0TC8J7
+#EXTINF:-1, ENTERTAINMENT | CJ ENM [LONG TO CONNECT]
+https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1, ENTERTAINMENT | SBS TV [LONG TO CONNECT]
+https://d2a2z5wd1u31lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-10pb6vgdcdmd3-prod/hls-harvester2-1293-prod/us-east-1/cc-10pb6vgdcdmd3/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1, ENTERTAINMENT | TVN [LONG TO CONNECT]
+https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:120
+#EXTVLCOPT:network-caching=10000000
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
+#EXTINF:-1, ENTERTAINMENT | HBO HD [US]
+http://93.119.105.61:80/play/live.php?mac=00:1A:79:34:34:31&stream=325973&extension=ts&play_token=bNw06UOYvE
+#EXTINF:-1, BEIN MOVIES 2 ACTION
+https://live.jalatech.ps/vip_beinmovies2/mpegts?token=3920bcdf94012f9f0656421c128b25cd
+#EXTINF:-1, BEIN MOVIES 1 PREMIERE
+https://live.jalatech.ps/vip_beinmovies1/mpegts?token=90dd1a2fe5aaf5e0f188fbc018cd5980
+#EXTINF:-1, PH | CINEMO!
+https://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
+#EXTINF:-1, PH | PBO CHANNEL
+http://user.scalecdn.co:8080/live/22707073/00642582/567735.m3u8?thanos1975
+#EXTINF:-1, PH | ONE PH
+http://user.scalecdn.co:8080/live/22707073/00642582/567732.m3u8?thanos1975
+#EXTINF:-1, PH | ONE SPORTS
+http://user.scalecdn.co:8080/live/22707073/00642582/546796.m3u8?thanos1975
+#EXTINF:-1, PH | ONE SPORTS PLUS
+http://user.scalecdn.co:8080/live/22707073/00642582/651753.m3u8?thanos1975
+#EXTINF:-1, PH | PBA RUSH
+http://user.scalecdn.co:8080/live/22707073/00642582/651751.m3u8?thanos1975
+#EXTINF:-1, PH | UAAP VARSITY CHANNEL
+http://user.scalecdn.co:8080/live/22707073/00642582/651752.m3u8?thanos1975
+#EXTINF:-1, PH | TV5
+http://user.scalecdn.co:8080/live/22707073/00642582/546800.m3u8?thanos1975
+#EXTINF:-1, PH | GMA PINOY TV
+http://user.scalecdn.co:8080/live/22707073/00642582/546784.m3u8?thanos1975
+#EXTINF:-1, PH | TFC
+http://user.scalecdn.co:8080/live/22707073/00642582/546785.m3u8?thanos1975
+#EXTINF:-1, PH | TRAVEL CHANNEL
+http://user.scalecdn.co:8080/live/22707073/00642582/567747.m3u8?thanos1975
+#EXTINF:-1, PH | SARI-SARI
+http://user.scalecdn.co:8080/live/22707073/00642582/567740.m3u8?thanos1975
+#EXTINF:-1, GTV
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:0C:5F:B8&stream=1548700&extension=ts&play_token=h3JpqrqRjX
+#EXTINF:-1, GMA 7
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:0C:5F:B8&stream=440523&extension=ts&play_token=r306GnsIGt
+#EXTINF:-1, KAPATID CHANNEL
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:0C:5F:B8&stream=1856355&extension=ts&play_token=Heoft0lUU7
+#EXTINF:-1, KAPAMILYA CHANNEL
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:0C:5F:B8&stream=1856326&extension=ts&play_token=1zj0nxw5uU
+#EXTINF:-1, ANIPLUS
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:0C:5F:B8&stream=1856298&extension=ts&play_token=IBhSWC8P4r
+#EXTINF:-1, NEWS | FOX NEWS NOW
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, NEWS | DW NEWS
+http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1, NEWS | CHANNEL NEWS ASIA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1, NEWS | SKY NEWS
+http://tinyurl.com/thanos1975skynews
+#EXTINF:-1, NEWS | BLOOMBERG TV
+https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1, NEWS | GLOBAL NEWS
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+
+
