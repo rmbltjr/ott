@@ -1,1 +1,494 @@
+#EXTM3U 
+# ◄◄◄ CANADA Exp:07/07/2026 ►►►
+#EXTM3U x-tvg-url="http://1tv41.icu:8080/xmltv.php?username=Y06DNq&password=295733"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bcHP3Vg.png" group-title="Canada",Global News BC
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
+#EXTINF:-1,group-title="Canada",CBC News Network HD
+http://1tv41.icu:8080/live/Y06DNq/295733/57304.rtmp
+#EXTINF:-1,group-title="Canada",Showcase Canada HD
+http://1tv41.icu:8080/live/Y06DNq/295733/47366.rtmp
+#EXTINF:-1,group-title="Canada",Discovery Channel (CAN) HD
+http://1tv41.icu:8080/live/Y06DNq/295733/57252.rtmp
+#EXTINF:-1,group-title="Canada",Crime + Investigation Canada
+http://1tv41.icu:8080/live/Y06DNq/295733/57256.rtmp
+#EXTINF:-1,group-title="Canada",Doctor Who 
+http://defaultgen.com:3050/live/prezdnt@hotmail.com/ckFy3A1NRU/593858.rtmp
+#EXTINF:-1,group-title="USA",Doctor Who Classic
+http://defaultgen.com:3050/live/prezdnt@hotmail.com/ckFy3A1NRU/594013.rtmp
+#EXTINF:-1,group-title="Canada",Harry Potter
+http://1tv41.icu:8080/live/Y06DNq/295733/215291.rtmp
+#EXTINF:-1,group-title="Canada",Lord Of The Rings
+http://1tv41.icu:8080/live/Y06DNq/295733/215334.rtmp
+#EXTINF:-1,group-title="Canada",Sportsnet One.ca
+http://1tv41.icu:8080/live/Y06DNq/295733/47379.rtmp
+#EXTINF:-1,group-title="Canada",Sportsnet 360.ca
+http://1tv41.icu:8080/live/Y06DNq/295733/57299.rtmp
+#EXTINF:-1,group-title="Canada",Sportsnet (Ontario).ca
+http://1tv41.icu:8080/live/Y06DNq/295733/57463.rtmp
+#EXTINF:-1,group-title="Canada",Sportsnet (East).ca
+http://1tv41.icu:8080/live/Y06DNq/295733/57298.rtmp
+#EXTINF:-1,group-title="Canada",Sportsnet (Pacific).ca
+http://1tv41.icu:8080/live/Y06DNq/295733/47387.rtmp
+#EXTINF:-1,group-title="Canada",Sportsnet (West).ca
+http://1tv41.icu:8080/live/Y06DNq/295733/57300.rtmp
+#EXTINF:-1,group-title="Canada",Sportsnet World.ca
+http://1tv41.icu:8080/live/Y06DNq/295733/75675.rtmp
+#EXTINF:-1,group-title="Canada",TSN1 HD
+http://1tv41.icu:8080/live/Y06DNq/295733/47440.rtmp
+#EXTINF:-1,group-title="Canada",TSN2 HD
+http://1tv41.icu:8080/live/Y06DNq/295733/47442.rtmp
+#EXTINF:-1,group-title="Canada",TSN3 HD
+http://1tv41.icu:8080/live/Y06DNq/295733/47444.rtmp
+#EXTINF:-1,group-title="Canada",TSN4 HD
+http://1tv41.icu:8080/live/Y06DNq/295733/47446.rtmp
+#EXTINF:-1,group-title="Canada",TSN5 HD
+http://1tv41.icu:8080/live/Y06DNq/295733/57295.rtmp
+#EXTINF:-1,group-title="Canada",CTV News Channel HD
+http://1tv41.icu:8080/live/Y06DNq/295733/57350.rtmp
+#EXTINF:-1,group-title="Canada",CHEK TV
+https://livecdn.use1-0004.jwplive.com/live/sites/HGOnqYhO/media/i9sjcGbc/live.isml/.mpd
+#EXTINF:-1,group-title="Canada",CBC Vancouver
+http://1tv41.icu:8080/live/Y06DNq/295733/57391.rtmp
+#EXTINF:-1,group-title="Canada",Global Vancouver
+http://1tv41.icu:8080/live/Y06DNq/295733/57436.rtmp
+#EXTINF:-1,group-title="USA",ABC East
+http://1tv41.icu:8080/live/Y06DNq/295733/121745.rtmp
+#EXTINF:-1,group-title="USA",ABC (KOMO) Seattle, WA.ca
+https://buddy-moj-scanner.vercel.app/api/scan?url=https://fl1.moveonjoy.com/WA_SEATTLE_ABC/index.m3u8
+#EXTINF:-1,group-title="USA",CBS (KIRO) Seattle, WA.ca
+http://1tv41.icu:8080/live/Y06DNq/295733/120825.rtmp
+#EXTINF:-1,group-title="USA",FOX (KCPQ) Tacoma, WA - Canada.ca
+http://1tv41.icu:8080/live/Y06DNq/295733/120829.rtmp
+#EXTINF:-1,group-title="USA",NBC (KING) Seattle, WA.ca
+http://1tv41.icu:8080/live/Y06DNq/295733/120826.rtmp
+#EXTINF:-1,group-title="USA",CW (KSTW) Tacoma, WA.ca
+http://1tv41.icu:8080/live/Y06DNq/295733/120828.rtmp
+#EXTINF:-1,group-title="Canada",Animal Planet Canada HD
+http://1tv41.icu:8080/live/Y06DNq/295733/57377.rtmp
+#EXTINF:-1,group-title="Canada",CTV Comedy - East HD.ca
+http://1tv41.icu:8080/live/Y06DNq/295733/57408.rtmp
+#EXTINF:-1,group-title="Canada",Bravo
+http://1tv41.icu:8080/live/Y06DNq/295733/57379.rtmp
+#EXTINF:-1,group-title="Canada",Discovery Science (Canada)
+http://1tv41.icu:8080/live/Y06DNq/295733/57418.rtmp
+#EXTINF:-1,group-title="Canada",History Canada HD East
+http://1tv41.icu:8080/live/Y06DNq/295733/57272.rtmp
+#EXTINF:-1,group-title="Canada",Discovery Velocity HD.ca
+http://1tv41.icu:8080/live/Y06DNq/295733/46212.rtmp
+#EXTINF:-1,group-title="Canada",Investigation Discovery (Canada)
+http://1tv41.icu:8080/live/Y06DNq/295733/57442.rtmp
+#EXTINF:-1,group-title="Canada",A&E HD
+http://1tv41.icu:8080/live/Y06DNq/295733/57476.rtmp
+#EXTINF:-1,group-title="Canada",CNN HD
+http://1tv41.icu:8080/live/Y06DNq/295733/57398.rtmp
+#EXTINF:-1,group-title="Canada",National Geographic Wild Canada HD
+http://1tv41.icu:8080/live/Y06DNq/295733/57280.rtmp
+#EXTINF:-1,group-title="Canada",National Geographic Canada HD
+http://1tv41.icu:8080/live/Y06DNq/295733/47338.rtmp
+#EXTINF:-1,group-title="Canada",Love Nature
+http://1tv41.icu:8080/live/Y06DNq/295733/47324.rtmp
+#EXTINF:-1,group-title="Canada",CTV Drama HD
+http://1tv41.icu:8080/live/Y06DNq/295733/57254.rtmp
+#EXTINF:-1,group-title="Canada",Smithsonian Channel Canada HD.ca
+http://1tv41.icu:8080/live/Y06DNq/295733/47369.rtmp
+#EXTINF:-1,group-title="Canada",Slice
+http://1tv41.icu:8080/live/Y06DNq/295733/57274.rtmp
+#EXTINF:-1,group-title="Canada",Silver Screen Classics
+http://1tv41.icu:8080/live/Y06DNq/295733/107190.rtmp
+#EXTINF:-1,group-title="Canada",Outdoor Life Network Canada HD
+http://1tv41.icu:8080/live/Y06DNq/295733/57366.rtmp
+#EXTINF:-1,group-title="Canada",MovieTime HD
+http://1tv41.icu:8080/live/Y06DNq/295733/47331.rtmp
+#EXTINF:-1,group-title="Canada",Lifetime Canada
+http://1tv41.icu:8080/live/Y06DNq/295733/57271.rtmp
+#EXTINF:-1,group-title="Canada",HBO 1 HD
+http://1tv41.icu:8080/live/Y06DNq/295733/57437.rtmp
+#EXTINF:-1,group-title="Canada",HBO Canada 2 - West.ca
+http://1tv41.icu:8080/live/Y06DNq/295733/57438.rtmp
+#EXTINF:-1,group-title="Canada",FX
+http://1tv41.icu:8080/live/Y06DNq/295733/57268.rtmp
+#EXTINF:-1,group-title="Canada",FXX Canada
+http://1tv41.icu:8080/live/Y06DNq/295733/57249.rtmp
+#EXTINF:-1,group-title="Canada",Dejaview
+http://1tv41.icu:8080/live/Y06DNq/295733/122001.rtmp
+#EXTINF:-1,group-title="Canada",Family Jr.
+http://1tv41.icu:8080/live/Y06DNq/295733/57346.rtmp
+#EXTINF:-1,group-title="Canada",E! Canada HD
+http://1tv41.icu:8080/live/Y06DNq/295733/57249.rtmp
+#EXTINF:-1,group-title="Canada",DTOUR HD
+http://1tv41.icu:8080/live/Y06DNq/295733/57250.rtmp
+#EXTINF:-1,group-title="Canada",CTV Sci-Fi HD
+http://1tv41.icu:8080/live/Y06DNq/295733/57464.rtmp
+#EXTINF:-1,group-title="Canada",Crave 1
+http://1tv41.icu:8080/live/Y06DNq/295733/57309.rtmp
+#EXTINF:-1,group-title="Canada",Crave 2
+http://1tv41.icu:8080/live/Y06DNq/295733/57310.rtmp
+#EXTINF:-1,group-title="Canada",Crave 3
+http://1tv41.icu:8080/live/Y06DNq/295733/57322,m3u8
+#EXTINF:-1,group-title="Canada",Crave 4
+http://1tv41.icu:8080/live/Y06DNq/295733/57311.rtmp
+#EXTINF:-1,group-title="Canada",Cottage Life HD
+http://1tv41.icu:8080/live/Y06DNq/295733/47217.rtmp
+#EXTINF:-1,group-title="Canada",CMT Canada
+http://1tv41.icu:8080/live/Y06DNq/295733/57258.rtmp
+#EXTINF:-1,group-title="Canada",Cartoon Network Canada - East HD
+http://1tv41.icu:8080/live/Y06DNq/295733/57380.rtmp
+#EXTINF:-1,group-title="Canada",AMC (Canada)
+http://1tv41.icu:8080/live/Y06DNq/295733/57376.rtmp
+#EXTINF:-1,group-title="Canada",ABC Spark
+http://1tv41.icu:8080/live/Y06DNq/295733/57375.rtmp
+#EXTINF:-1,group-title="Canada",Wild Television Network
+http://1tv41.icu:8080/live/Y06DNq/295733/100456.rtmp
+#EXTINF:-1,group-title="Canada",W Network (East)
+http://1tv41.icu:8080/live/Y06DNq/295733/57284.rtmp
+#EXTINF:-1,group-title="Canada",Super Channel Heart and Home (Canada)
+http://1tv41.icu:8080/live/Y06DNq/295733/100460.rtmp
+#EXTINF:-1,group-title="Canada",Super Channel Fuse
+http://xtvplayer.top:8080/live/037521994/75219/348941.rtmp
+#EXTINF:-1,group-title="Canada",HLN
+http://1tv41.icu:8080/live/Y06DNq/295733/57441.rtmp
+#EXTINF:-1,group-title="Canada",History2 Canada
+http://1tv41.icu:8080/live/Y06DNq/295733/210450.rtmp
+#EXTINF:-1,group-title="Canada",Home and Garden Television Canada
+http://1tv41.icu:8080/live/Y06DNq/295733/57273.rtmp
+#EXTINF:-1,group-title="USA",Boomerang Network
+http://1tv41.icu:8080/live/Y06DNq/295733/14741.rtmp
+#EXTINF:-1,group-title="Canada",BBC Earth
+http://1tv41.icu:8080/live/Y06DNq/295733/99621.rtmp
+# ◄◄◄ USA Exp:07/07/2026 ►►►
+#EXTINF:-1,group-title="USA",Fox Sports 1
+http://1tv41.icu:8080/live/Y06DNq/295733/46792.rtmp
+#EXTINF:-1,group-title="USA",FOX SPORTS 2
+http://1tv41.icu:8080/live/Y06DNq/295733/1847.rtmp
+#EXTINF:-1,group-title="USA",NFL Network
+http://1tv41.icu:8080/live/Y06DNq/295733/83724.rtmp
+#EXTINF:-1,group-title="USA",WWE Network
+http://1tv41.icu:8080/live/Y06DNq/295733/11645..rtmp
+#EXTINF:-1,group-title="USA",Mav TV
+http://1tv41.icu:8080/live/Y06DNq/295733/20977.rtmp
+#EXTINF:-1,group-title="USA",TNT East
+http://1tv41.icu:8080/live/Y06DNq/295733/10455.rtmp
+#EXTINF:-1,group-title="USA",TNT WEST
+http://1tv41.icu:8080/live/Y06DNq/295733/46688.rtmp
+#EXTINF:-1,group-title="USA",Altitude Sports
+http://1tv41.icu:8080/live/Y06DNq/295733/79545.rtmp
+#EXTINF:-1,group-title="USA",NESN
+http://1tv41.icu:8080/live/Y06DNq/295733/46726.rtmp
+#EXTINF:-1,US NESN PLUS
+http://1tv41.icu:8080/live/Y06DNq/295733/161451.rtmp
+#EXTINF:-1,group-title="USA",MASN
+http://1tv41.icu:8080/live/Y06DNq/295733/65697m3u8
+#EXTINF:-1,group-title="USA",MASN2
+http://1tv41.icu:8080/live/Y06DNq/295733/65698.rtmp
+#EXTINF:-1,group-title="USA",MSG
+http://1tv41.icu:8080/live/Y06DNq/295733/21090.rtmp
+#EXTINF:-1,group-title="USA",MSG 2
+http://1tv41.icu:8080/live/Y06DNq/295733/21089.rtmp
+#EXTINF:-1,group-title="USA",Root Sports
+http://cord-cutter.net:8080/live/butlerearl@yahoo.com/NK9asfznpk/85232.rtmp
+#EXTINF:-1,group-title="USA",CBS Sports Network
+http://cord-cutter.net:8080/live/butlerearl@yahoo.com/NK9asfznpk/10454.rtmp
+#EXTINF:-1,group-title="USA",ESPN
+http://1tv41.icu:8080/live/Y06DNq/295733/14197.rtmp
+#EXTINF:-1,group-title="USA",ESPN2 
+http://1tv41.icu:8080/live/Y06DNq/295733/2210.rtmp
+#EXTINF:-1,group-title="USA",ESPN SEC Network
+http://1tv41.icu:8080/live/Y06DNq/295733/17608.rtmp
+#EXTINF:-1,group-title="USA",Chicago Sports Network
+http://1tv41.icu:8080/live/Y06DNq/295733/20941.rtmp
+#EXTINF:-1,group-title="USA",NBC Sports Boston
+http://1tv41.icu:8080/live/Y06DNq/295733/20939.rtmp
+#EXTINF:-1,group-title="USA",NBC Sports Philadelphia
+http://1tv41.icu:8080/live/Y06DNq/295733/20943.rtmp
+#EXTINF:-1,group-title="USA",NBC Sports California
+http://1tv41.icu:8080/live/Y06DNq/295733/20940.rtmp
+#EXTINF:-1,group-title="USA",NBC Sports Bay Area
+http://1tv41.icu:8080/live/Y06DNq/295733/9900.rtmp
+#EXTINF:-1,group-title="USA",Monumental Sports
+http://1tv41.icu:8080/live/Y06DNq/295733/20944.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports Detroit
+http://1tv41.icu:8080/live/Y06DNq/295733/20930.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports Midwest
+http://1tv41.icu:8080/live/Y06DNq/295733/66795.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports North
+http://1tv41.icu:8080/live/Y06DNq/295733/20928.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports South
+http://1tv41.icu:8080/live/Y06DNq/295733/20922.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports Sun
+http://1tv41.icu:8080/live/Y06DNq/295733/104917.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports Florida
+http://1tv41.icu:8080/live/Y06DNq/295733/46794.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports Carolina
+http://1tv41.icu:8080/live/Y06DNq/295733/20929.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports Ohio
+http://1tv41.icu:8080/live/Y06DNq/295733/17752.rtmp
+#EXTINF:-1,group-title="USA",FanDuel Sports West
+http://1tv41.icu:8080/live/Y06DNq/295733/20932.rtmp
+#EXTINF:-1,group-title="USA",Charge!
+http://1tv41.icu:8080/live/Y06DNq/295733/79594.rtmp
+#EXTINF:-1,group-title="USA",A&E
+http://1tv41.icu:8080/live/Y06DNq/295733/59056.rtmp
+#EXTINF:-1,group-title="USA",Animal Planet
+http://1tv41.icu:8080/live/Y06DNq/295733/17870.rtmp
+#EXTINF:-1,group-title="USA",AXS Tv
+http://1tv41.icu:8080/live/Y06DNq/295733/48324.rtmp
+#EXTINF:-1,group-title="USA",Bounce XL 
+http://1tv41.icu:8080/live/Y06DNq/295733/48323.rtmp
+#EXTINF:-1,group-title="USA",Bravo (East)
+http://1tv41.icu:8080/live/Y06DNq/295733/20859.rtmp
+#EXTINF:-1,group-title="USA",Cartoon Network
+http://1tv41.icu:8080/live/Y06DNq/295733/46708.rtmp
+#EXTINF:-1,group-title="USA",CMT
+http://1tv41.icu:8080/live/Y06DNq/295733/46706.rtmp
+#EXTINF:-1,group-title="USA",CNN
+http://1tv41.icu:8080/live/Y06DNq/295733/1817.rtmp
+#EXTINF:-1,group-title="USA",Comedy Central
+http://1tv41.icu:8080/live/Y06DNq/295733/7466.rtmp
+#EXTINF:-1,group-title="USA",Comet
+http://1tv41.icu:8080/live/Y06DNq/295733/66244.rtmp
+#EXTINF:-1,group-title="USA",Discovery Channel
+http://1tv41.icu:8080/live/Y06DNq/295733/46720.rtmp
+#EXTINF:-1,group-title="USA",Discovery Science
+http://1tv41.icu:8080/live/Y06DNq/295733/20866.rtmp
+#EXTINF:-1,group-title="USA",Discovery Family
+http://1tv41.icu:8080/live/Y06DNq/295733/10538.rtmp
+#EXTINF:-1,group-title="USA",Discovery Life
+http://1tv41.icu:8080/live/Y06DNq/295733/9861.rtmp
+#EXTINF:-1,group-title="USA",Investigation Discovery
+http://1tv41.icu:8080/live/Y06DNq/295733/46810.rtmp
+#EXTINF:-1,group-title="USA",E! Entertainment
+http://1tv41.icu:8080/live/Y06DNq/295733/11651.rtmp
+#EXTINF:-1,group-title="USA",Freeform
+http://1tv41.icu:8080/live/Y06DNq/295733/13370.rtmp
+#EXTINF:-1,group-title="USA",Fuse
+http://1tv41.icu:8080/live/Y06DNq/295733/46701.rtmp
+#EXTINF:-1,group-title="USA",FX
+http://1tv41.icu:8080/live/Y06DNq/295733/46690.rtmp
+#EXTINF:-1,group-title="USA",FXM
+http://1tv41.icu:8080/live/Y06DNq/295733/10260.rtmp
+#EXTINF:-1,group-title="USA",FXX
+http://1tv41.icu:8080/live/Y06DNq/295733/46699.rtmp
+#EXTINF:-1,group-title="USA",FYI
+http://1tv41.icu:8080/live/Y06DNq/295733/9240.rtmp
+#EXTINF:-1,group-title="USA",Get TV
+http://1tv41.icu:8080/live/Y06DNq/295733/18366.rtmp
+#EXTINF:-1,group-title="USA",Grit TV
+http://1tv41.icu:8080/live/Y06DNq/295733/20861.rtmp
+#EXTINF:-1,group-title="USA",Court TV
+http://1tv41.icu:8080/live/Y06DNq/295733/21092.rtmp
+#EXTINF:-1,group-title="USA",Hallmark
+http://1tv41.icu:8080/live/Y06DNq/295733/46719.rtmp
+#EXTINF:-1,group-title="USA",Hallmark Drama
+http://1tv41.icu:8080/live/Y06DNq/295733/9307.rtmp
+#EXTINF:-1,group-title="USA",Hallmark Movies & Mystery
+http://1tv41.icu:8080/live/Y06DNq/295733/10289.rtmp
+#EXTINF:-1,group-title="USA",HGTV
+http://1tv41.icu:8080/live/Y06DNq/295733/46717.rtmp
+#EXTINF:-1,group-title="USA",History
+http://1tv41.icu:8080/live/Y06DNq/295733/46724.rtmp
+#EXTINF:-1,group-title="USA",HLN
+http://1tv41.icu:8080/live/Y06DNq/295733/17748.rtmp
+#EXTINF:-1,group-title="USA",ION
+http://1tv41.icu:8080/live/Y06DNq/295733/9297.rtmp
+#EXTINF:-1,group-title="USA",LAFF
+http://1tv41.icu:8080/live/Y06DNq/295733/17777.rtmp
+#EXTINF:-1,group-title="USA",Lifetime
+http://1tv41.icu:8080/live/Y06DNq/295733/46714.rtmp
+#EXTINF:-1,group-title="USA",Lifetime Movie
+http://1tv41.icu:8080/live/Y06DNq/295733/2208.rtmp
+#EXTINF:-1,group-title="USA",Motor Trend
+http://1tv41.icu:8080/live/Y06DNq/295733/10399.rtmp
+#EXTINF:-1,group-title="USA",Nat Geo Wild
+http://1tv41.icu:8080/live/Y06DNq/295733/11664.rtmp
+#EXTINF:-1,group-title="USA",Nat Geo
+http://1tv41.icu:8080/live/Y06DNq/295733/46722.rtmp
+#EXTINF:-1,group-title="USA",Outdoor Channel
+http://1tv41.icu:8080/live/Y06DNq/295733/9244.rtmp
+#EXTINF:-1,group-title="USA",Outside TV
+http://1tv41.icu:8080/live/Y06DNq/295733/20865.rtmp
+#EXTINF:-1,group-title="USA",OWN
+http://1tv41.icu:8080/live/Y06DNq/295733/46698.rtmp
+#EXTINF:-1,group-title="USA",Oxygen True Crime
+http://1tv41.icu:8080/live/Y06DNq/295733/9245.rtmp
+#EXTINF:-1,group-title="USA",Paramount TV
+http://1tv41.icu:8080/live/Y06DNq/295733/10464.rtmp
+#EXTINF:-1,group-title="USA",PixL
+http://1tv41.icu:8080/live/Y06DNq/295733/21648.rtmp
+#EXTINF:-1,group-title="USA",Pursuit
+http://1tv41.icu:8080/live/Y06DNq/295733/22888.rtmp
+#EXTINF:-1,group-title="USA",Reelz
+http://1tv41.icu:8080/live/Y06DNq/295733/10526.rtmp
+#EXTINF:-1,group-title="USA",Smithsonian
+http://1tv41.icu:8080/live/Y06DNq/295733/31150.rtmp
+#EXTINF:-1,group-title="USA",Sportsman
+http://1tv41.icu:8080/live/Y06DNq/295733/79913.rtmp
+#EXTINF:-1,group-title="USA",Sundance
+http://1tv41.icu:8080/live/Y06DNq/295733/46712.rtmp
+#EXTINF:-1,group-title="USA",Syfy
+http://1tv41.icu:8080/live/Y06DNq/295733/46685.rtmp
+#EXTINF:-1,group-title="USA",TBS
+http://1tv41.icu:8080/live/Y06DNq/295733/20867.rtmp
+#EXTINF:-1,group-title="USA",TRU TV
+http://1tv41.icu:8080/live/Y06DNq/295733/10244.rtmp
+#EXTINF:-1,group-title="USA",True Crime Network
+http://1tv41.icu:8080/live/Y06DNq/295733/121130.rtmp
+#EXTINF:-1,group-title="USA",TVland
+http://1tv41.icu:8080/live/Y06DNq/295733/46696.rtmp
+#EXTINF:-1,group-title="USA",TV One
+http://1tv41.icu:8080/live/Y06DNq/295733/20868.rtmp
+#EXTINF:-1,group-title="USA",USA Network
+http://1tv41.icu:8080/live/Y06DNq/295733/10252.rtmp
+#EXTINF:-1,group-title="USA",Viceland
+http://1tv41.icu:8080/live/Y06DNq/295733/46697.rtmp
+#EXTINF:-1,group-title="USA",WE Tv
+http://1tv41.icu:8080/live/Y06DNq/295733/9237.rtmp
+#EXTINF:-1,group-title="USA",WGN9
+http://1tv41.icu:8080/live/Y06DNq/295733/122274.rtmp
+#EXTINF:-1,group-title="USA",Longhorn Network
+http://1tv41.icu:8080/live/Y06DNq/295733/105257.rtmp
+#EXTINF:-1,group-title="USA",Cowboy Channel
+http://1tv41.icu:8080/live/Y06DNq/295733/122527.rtmp
+#EXTINF:-1,group-title="USA",Start TV
+http://1tv41.icu:8080/live/Y06DNq/295733/137680.rtmp
+#EXTINF:-1,group-title="USA",Family Entertainment TV
+http://1tv41.icu:8080/live/Y06DNq/295733/172481.rtmp
+#EXTINF:-1,group-title="USA",AMC Thrillers
+http://1tv41.icu:8080/live/Y06DNq/295733/66243.rtmp
+#EXTINF:-1,group-title="USA",Thriller MAX
+http://1tv41.icu:8080/live/Y06DNq/295733/17774.rtmp
+#EXTINF:-1,group-title="USA",Starz East
+http://1tv41.icu:8080/live/Y06DNq/295733/9299.rtmp
+#EXTINF:-1,group-title="USA",Starz West
+http://1tv41.icu:8080/live/Y06DNq/295733/21091.rtmp
+#EXTINF:-1,group-title="USA",Starz in Black
+http://1tv41.icu:8080/live/Y06DNq/295733/17779.rtmp
+#EXTINF:-1,group-title="USA",Starz Cinema
+http://1tv41.icu:8080/live/Y06DNq/295733/17775.rtmp
+#EXTINF:-1,group-title="USA",Starz Edge
+http://1tv41.icu:8080/live/Y06DNq/295733/16143.rtmp
+#EXTINF:-1,group-title="USA",Showtime East
+http://1tv41.icu:8080/live/Y06DNq/295733/46214.rtmp
+#EXTINF:-1,group-title="USA",Showtime 2
+http://1tv41.icu:8080/live/Y06DNq/295733/13219
+#EXTINF:-1,group-title="USA",Showtime Extreme
+http://1tv41.icu:8080/live/Y06DNq/295733/13220.rtmp
+#EXTINF:-1,group-title="USA",Showtime Next
+http://1tv41.icu:8080/live/Y06DNq/295733/9316.rtmp
+#EXTINF:-1,group-title="USA",Cinemax East
+http://1tv41.icu:8080/live/Y06DNq/295733/13380.rtmp
+#EXTINF:-1,group-title="USA",Cinemax OuterMax
+http://1tv41.icu:8080/live/Y06DNq/295733/21012.rtmp
+#EXTINF:-1,group-title="USA",MoviePlex
+http://1tv41.icu:8080/live/Y06DNq/295733/1829.rtmp
+#EXTINF:-1,group-title="USA",MovieMax
+http://1tv41.icu:8080/live/Y06DNq/295733/13480.rtmp
+#EXTINF:-1,group-title="USA",MoreMax
+http://1tv41.icu:8080/live/Y06DNq/295733/17776.rtmp
+#EXTINF:-1,group-title="USA",HDNet Movies
+http://1tv41.icu:8080/live/Y06DNq/295733/16265.rtmp
+#EXTINF:-1,group-title="USA",HBO
+http://1tv41.icu:8080/live/Y06DNq/295733/9264.rtmp
+#EXTINF:-1,group-title="USA",HBO 2
+http://1tv41.icu:8080/live/Y06DNq/295733/9816.rtmp
+#EXTINF:-1,group-title="USA",HBO Signature
+http://1tv41.icu:8080/live/Y06DNq/295733/9266.rtmp
+#EXTINF:-1,group-title="USA",HBO Zone
+http://1tv41.icu:8080/live/Y06DNq/295733/9265.rtmp
+#EXTINF:-1,group-title="USA",HBO Comedy
+http://1tv41.icu:8080/live/Y06DNq/295733/17773.rtmp
+#EXTINF:-1,group-title="USA",MGM+
+http://1tv41.icu:8080/live/Y06DNq/295733/13214.rtmp
+#EXTINF:-1,group-title="USA",MGM+ Drive In
+http://1tv41.icu:8080/live/Y06DNq/295733/14193.rtmp
+#EXTINF:-1,group-title="USA",MGM+ Hits
+http://1tv41.icu:8080/live/Y06DNq/295733/12744.rtmp
+#EXTINF:-1,group-title="USA",MGM+ Marquee
+http://1tv41.icu:8080/live/Y06DNq/295733/12730.rtmp
+#EXTINF:-1,CINEBOX: ANIMATION
+http://1tv41.icu:8080/live/Y06DNq/295733/119420.rtmp
+#EXTINF:-1,CINEBOX: BLOCKBUSTERS
+http://1tv41.icu:8080/live/Y06DNq/295733/119421.rtmp
+#EXTINF:-1,CINEBOX: CLASSIC
+http://1tv41.icu:8080/live/Y06DNq/295733/119422.rtmp
+#EXTINF:-1,CINEBOX: COMEDY
+http://1tv41.icu:8080/live/Y06DNq/295733/119423.rtmp
+#EXTINF:-1,CINEBOX: CULT
+http://1tv41.icu:8080/liveY06DNq/295733/119424.rtmp
+#EXTINF:-1,CINEBOX: FAMILY
+http://1tv41.icu:8080/live/Y06DNq/295733/119425.rtmp
+#EXTINF:-1,CINEBOX: GREATS
+http://1tv41.icu:8080/live/Y06DNq/295733/119426.rtmp
+#EXTINF:-1,CINEBOX: GREATS TWO
+http://1tv41.icu:8080/live/Y06DNq/295733/119427.rtmp
+#EXTINF:-1,CINEBOX: HISTORICAL
+http://1tv41.icu:8080/live/Y06DNq/295733/119428.rtmp
+#EXTINF:-1,24/7 Horror Movies
+http://1tv41.icu:8080/live/Y06DNq/295733/119429.rtmp
+#EXTINF:-1,CINEBOX: MUSICAL
+http://1tv41.icu:8080/live/Y06DNq/295733/119430.rtmp
+#EXTINF:-1,CINEBOX: MYSTERY
+http://1tv41.icu:8080/live/Y06DNq/295733/119431.rtmp
+#EXTINF:-1,CINEBOX: PREMIERE
+http://1tv41.icu:8080/live/Y06DNq/295733/119432.rtmp
+#EXTINF:-1,CINEBOX: ROMANCE
+http://1tv41.icu:8080/live/Y06DNq/295733/119433.rtmp
+#EXTINF:-1,CINEBOX: SCI-FI
+http://1tv41.icu:8080/live/Y06DNq/295733/119434.rtmp
+#EXTINF:-1,CINEBOX: WESTERN
+http://1tv41.icu:8080/live/Y06DNq/295733/119435.rtmp
+#EXTINF:-1,CINEBOX: HITS
+http://1tv41.icu:8080/live/Y06DNq/295733/119436.rtmp
+#EXTINF:-1,CINEBOX: THRILLER
+http://1tv41.icu:8080/live/Y06DNq/295733/119437.rtmp
+http://defaultgen.com:3050/live/prezdnt@hotmail.com/ckFy3A1NRU/534715.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="***NHL CHANNELS GUIDE***" tvg-logo="http://163.172.89.228/~msepg/logos/guide_logos/nhlguide.png" group-title="NHL ",NHL CHANNELS GUIDE
+http://lunar.pm:8080/live/leslie/snook/109332.rtmp
+#EXTINF:-1,group-title="NHL",NHL1 
+http://1tv41.icu:8080/live/Y06DNq/295733/210451.rtmp
+#EXTINF:-1,group-title="NHL",NHL2
+http://1tv41.icu:8080/live/Y06DNq/295733/210452.rtmp
+#EXTINF:-1,group-title="NHL",NHL3
+http://1tv41.icu:8080/live/Y06DNq/295733/210453.rtmp
+#EXTINF:-1,group-title="NHL",NHL4
+http://1tv41.icu:8080/live/Y06DNq/295733/210454.rtmp
+#EXTINF:-1,group-title="NHL",NHL5
+http://1tv41.icu:8080/live/Y06DNq/295733/210455.rtmp
+#EXTINF:-1,group-title="NHL",NHL6
+http://1tv41.icu:8080/live/Y06DNq/295733/210456.rtmp
+#EXTINF:-1,group-title="NHL",NHL7
+http://1tv41.icu:8080/live/Y06DNq/295733/210457.rtmp
+#EXTINF:-1,group-title="NHL",NHL8
+http://1tv41.icu:8080/live/Y06DNq/295733/210458.rtmp
+#EXTINF:-1,group-title="NHL",NHL9
+http://1tv41.icu:8080/live/Y06DNq/295733/210459.rtmp
+#EXTINF:-1,group-title="NHL",NHL10
+http://1tv41.icu:8080/live/Y06DNq/295733/210460.rtmp
+#EXTINF:-1,group-title="NHL",NHL11
+http://1tv41.icu:8080/live/Y06DNq/295733/210461.rtmp
+#EXTINF:-1,group-title="NHL",NHL12
+http://1tv41.icu:8080/live/Y06DNq/295733/210462.rtmp
+#EXTINF:-1,group-title="NHL",NHL13
+http://1tv41.icu:8080/live/Y06DNq/295733/210463.rtmp
+#EXTINF:-1,group-title="NHL",NHL14
+http://1tv41.icu:8080/live/Y06DNq/295733/210464.rtmp
+#EXTINF:-1,group-title="NHL",NHL15
+http://1tv41.icu:8080/live/Y06DNq/295733/210465.rtmp
+#EXTINF:-1,group-title="PPV ",PPV Guide
+http://lunar.pm:8080/live/leslie/snook/110700.rtmp
+#EXTINF:-1,group-title="PPV ",PPV 01
+http://lunar.pm:8080/live/leslie/snook/110755.rtmp
+#EXTINF:-1,group-title="PPV ",PPV 02
+http://lunar.pm:8080/live/leslie/snook/110756.rtmp
+#EXTINF:-1,group-title="PPV ",PPV 03
+http://lunar.pm:8080/live/leslie/snook/110757.rtmp
+
+
+
+
+
+
+
+
+
+
 
